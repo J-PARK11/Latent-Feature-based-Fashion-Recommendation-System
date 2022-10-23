@@ -1,0 +1,86 @@
+robotflow : clothes object detection dataset
+yolo v5 커스텀 : https://www.youtube.com/watch?v=T0DO1C8uYP8
+
+논문 제목 : Real-Time Fashion Coordination Recommendation System based on Latent Feature Space
+잠재특성공간 기반의 실시간 패션 코디 추천 시스템 .
+Latent Feature based Fashion Coordination Recommendation System with yolov5
+yolov5를 활용한 잠재 특성 기반의 패션 코디 추천 시스템.
+
+[전반부]
+1. 의류 객체 탑지 모델 모델링 :
+	Roboflow & Yolov5  (0)
+	pt -> weights (x)
+	or
+	pt에서 바로 (0)
+
+※ 추후 영상 기반으로 검색하는 영상을 촬영하여 PT에 첨부.
+※ 로컬 환경으로 개발 환경 다시 구축할 것.
+
+2. Real Time 객체 탐지 시스템 구축
+	opencv (x)
+	or
+	detect.py	(0)
+3. 검출된 Bounding box 추출
+	OpenCV (x)
+	detect.py (0)
+[후반부]
+4. 추출한 샘플 전처리
+	제로 패딩 (0)
+	Crop (0)
+5. 추천 시스템 구축 or 적용 
+	기존 모델 적용 (0)
+6. Dashboard 제작.
+	Streamlit 복기
+
+[22.10.10 회의내용]
+대회 : 영상으로만 진행 전부 세팅 / 10/28
+	영상 정해서 PT 마련
+
+전시 : 두 개 다 (영상, Real-Time) / 11/4
+	A1 : 양식 -> 세부 편집 ==== 현수씨한테 양식 or tip 받기, 장 수는 학과에 문의
+	책상, 콘센트 : 미리 학과사무실에 협조요청
+	
+내용 :
+	Yolov5 -> ConvAE -> Recomm
+	비정형 데이터 기반의 서비스 개발 프레임워크 제안 및 구현
+	생성 모델을 사용했을 때, 특성 간 분리도와 응집성 그리고 대표성 강조
+	Yolov5는 Real Time 기반으로 User의 별도 행위 없이 이미지를 추출하기 위함.
+	ConvAE는 고차원 특성을 가공 가능한 형태로 차원 축소하는 용도로.
+	Recomm은 잠재 특성 기반으로 2차, 3차 서비스 제공 가능성을 제기.
+	KT의 주택 AI 서비스를 비롯해 현 인공지능 트렌드에 있어, 현 연구의 의의 강조.
+	전체적인 Framework를 대표하는 Figure 생성.
+	영상 제작하여 한 번의 본 서비스를 이해할 수 있도록 준비
+
+전체적인 프레임워크
+Yolov5 영상 캡쳐
+이미지 전처리 변천사
+ConvAE Block Diagram
+Cosine Similarity
+유사 아이템 검출
+패션 코디 추천결과
+(Dashboard)
+
+[TechinaFramework]
+Step 1 : Data acquisition - Image, Video, Real-Time Webcam
+Step 2 : Yolov5 Object Detection
+Step 3 : Image Handling
+Step 4 : ConvAE Training
+Step 5 : Similarity Computation & Top 10 Item Similar Item
+Step 6 : Fashion Coordination Recommenation
+
+[Detail Section]
+
+
+
+
+[마무리 작업]
+	Sample 작업
+	포스터 준비
+	PPT 준비
+	Dashboard 준비 (?)
+	YOLOv5 영상 제작
+	의류 메뉴판 제작
+
+닭가슴살 주문 (0) / 일정 정리 /
+21.004
+29.704
