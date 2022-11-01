@@ -2,9 +2,8 @@
 Awarded Dean of the Electronic Information Engineering Department's Graduation Project in 2022
    
 ## 👚 Latent Feature based Fashion Recommendation System with YOLOv5
-<p align="left"><img src = "ConvAE_Recom/figure/poster.jpg" width = '700'/></p>
-
-We constructed an Image Content-based Recommendation System using the Generative Model's Latent Feature. Existing static and inflexible workflows were added with Unsupervised Learning Mechanism and YOLOv5 custom models to build a more flexible and versatile system.
+We constructed an Image Content-based Recommendation System using the Generative Model's Latent Feature. Existing static and inflexible workflows were added with Unsupervised Learning Mechanism and YOLOv5 custom models to build a more flexible and versatile system.   
+<p align="left"><img src = "ConvAE_Recom/figure/poster.jpg" width = '800'/></p>
 
 ### Link
 Team Notion - [Fashion Recommendation System Team Notion](https://www.notion.so/likelion-aischool/Image-Based-Fashion-Styling-Recommendation-System-497d65f71315438bbb1eef32ab00bf69)   
@@ -25,12 +24,12 @@ YOLOv5 Raw Data Source - [YOLOv5 Raw Data Source](https://universe.roboflow.com/
 
 >Styling을 잘하고 싶으나 어떤 식으로 코디해야 할 지 어려워하는 User들의 고민 시간을 줄여주며, 동시에 패션에 대한 자기 만족감을 올릴 수 있습니다!
 
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/My%20Style%20Manager.png" width = '800'/></p>
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Service%20Flowchart.png" width = '800'/></p>
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Preprocessing.png" width = '800'/></p>
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Model%20Overview.png" width = '800'/></p>
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/Similarity.png" width = '800'/></p>
-<p align="center"><img src = "https://github.com/J-PARK11/Computer-Vision-Modeling/blob/master/Image%20Based%20Fashion%20Recommendation%20System/figure/top10%20result.png" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/content1.jpg" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/content2.jpg" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/content3.jpg" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/content4.jpg" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/content5.jpg" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/content6.jpg" width = '800'/></p>
 
 ### Stacks   
 - **Python**   
