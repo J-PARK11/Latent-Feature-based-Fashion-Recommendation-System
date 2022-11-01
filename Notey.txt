@@ -71,8 +71,6 @@ Step 6 : Fashion Coordination Recommenation
 [Detail Section]
 
 
-
-
 [마무리 작업]
 	Sample 작업
 	포스터 준비
@@ -80,7 +78,3 @@ Step 6 : Fashion Coordination Recommenation
 	Dashboard 준비 (?)
 	YOLOv5 영상 제작
 	의류 메뉴판 제작
-
-닭가슴살 주문 (0) / 일정 정리 /
-21.004
-29.704
