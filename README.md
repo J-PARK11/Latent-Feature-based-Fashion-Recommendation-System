@@ -32,6 +32,7 @@ YOLOv5 Raw Data Source - [YOLOv5 Raw Data Source](https://universe.roboflow.com/
 <p align="center"><img src = "ConvAE_Recom/figure/content4.jpg" width = '800'/></p>
 <p align="center"><img src = "ConvAE_Recom/figure/content5.jpg" width = '800'/></p>
 <p align="center"><img src = "ConvAE_Recom/figure/content6.jpg" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/content7.jpg" width = '800'/></p>
 
 ### Stacks   
 - **Python**   
