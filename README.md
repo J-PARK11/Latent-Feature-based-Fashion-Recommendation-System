@@ -2,7 +2,7 @@
 Awarded Dean of the Electronic Information Engineering Department's Graduation Project in 2022
    
 ## 👚 Latent Feature based Fashion Recommendation System with YOLOv5
-<p align="center"><img src = "ConvAE_Recom/figure/poster.jpg" width = '800'/></p>
+<p align="left"><img src = "ConvAE_Recom/figure/poster.jpg" width = '700'/></p>
 
 We constructed an Image Content-based Recommendation System using the Generative Model's Latent Feature. Existing static and inflexible workflows were added with Unsupervised Learning Mechanism and YOLOv5 custom models to build a more flexible and versatile system.
 
