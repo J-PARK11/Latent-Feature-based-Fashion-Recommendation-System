@@ -5,7 +5,7 @@ Awarded Dean of the Electronic Information Engineering Department's Graduation P
   We constructed an Image Content-based Recommendation System using the Generative Model's Latent Feature. Existing static and inflexible workflows were added with Unsupervised Learning Mechanism and YOLOv5 custom models to build a more flexible and versatile system.   
      
      
-<p align="center"><img src = "ConvAE_Recom/figure/poster.jpg" width = '800'/></p>
+<p align="center"><img src = "ConvAE_Recom/figure/poster/%EC%A1%B8%EC%9E%91a0_1.jpg" width = '800'/></p>
 
 ### Link
 Team Notion - [Fashion Recommendation System Team Notion](https://www.notion.so/likelion-aischool/Image-Based-Fashion-Styling-Recommendation-System-497d65f71315438bbb1eef32ab00bf69)   
